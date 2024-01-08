@@ -441,6 +441,7 @@ div.blog a.more:hover {
 	min-height: 900px;
 	width: 900px;
 	padding: 20px 30px 0;
+	text-align: center;
 }
 /** About **/
 #about p span {
