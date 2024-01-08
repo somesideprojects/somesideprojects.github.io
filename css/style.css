@@ -445,10 +445,12 @@ div.blog a.more:hover {
 /** About **/
 #about p span {
 	font-size: 12px;
+	text-align: center;
 }
 #about #main h1 {
 	background: url(../images/separator-light.png) repeat-x left bottom;
 	padding: 0 0 18px;
+	text-align: center;
 }
 #about #main h4 {
 	color: #626161;
@@ -458,6 +460,7 @@ div.blog a.more:hover {
 	line-height: 24px;
 	margin: 0 0 12px;
 	text-transform: uppercase;
+	text-align: center;
 }
 /** Gallery **/
 #contents #gallery {
